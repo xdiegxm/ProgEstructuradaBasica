@@ -18,7 +18,7 @@ int main()
         scanf("%d",&dni);
         if(dni<1000000||dni>99999999)
         {
-            if(dni>=0)
+            if(dni>=0)-41--1-10233fgf
             {
                 printf("\nDNI inexistente.\n");
             }
